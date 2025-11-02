@@ -1,0 +1,17 @@
+[{
+  "_id": "client01",
+  "name": "Laura Pérez",
+  "address": {
+    "street": "Passeig de Gràcia",
+    "number": 10,
+    "floor": 2,
+    "door": "3B",
+    "city": "Barcelona",
+    "postal_code": "08007",
+    "country": "Spain"
+  },
+  "phone": "612345678",
+  "email": "laura@example.com",
+  "registration_date": "2025-10-30",
+  "recommended_by": null
+}]

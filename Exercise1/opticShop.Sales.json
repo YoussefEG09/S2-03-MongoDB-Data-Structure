@@ -1,0 +1,13 @@
+[{
+  "_id": "sale01",
+  "date": "2025-11-02T10:30:00Z",
+  "client_id": "client01",
+  "employee_id": "employee01",
+  "products": [
+    {
+      "glasses_id": "glasses01",
+      "price": 120
+    }
+  ],
+  "total": 120
+}]

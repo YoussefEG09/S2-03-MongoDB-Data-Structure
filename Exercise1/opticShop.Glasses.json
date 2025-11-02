@@ -1,0 +1,16 @@
+[{
+  "_id": "glasses01",
+  "brand": "Ray-Ban",
+  "graduation": {
+    "left": 1.25,
+    "right": 1.5
+  },
+  "frame_type": "metal",
+  "frame_color": "black",
+  "lens_color": {
+    "left": "transparent",
+    "right": "transparent"
+  },
+  "price": 120,
+  "supplier_id": "supplier01"
+}]

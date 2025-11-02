@@ -1,0 +1,16 @@
+[{
+  "_id": "employee01",
+  "name": "John Cena",
+  "position": "Optician",
+  "phone": "934587124",
+  "email": "johncena@example.com",
+  "hire_date": "2015-05-14"
+},
+{
+  "_id": "employee02",
+  "name": "Sarah Smith",
+  "position": "Sales Assistant",
+  "phone": "934222888",
+  "email": "sarahsmith@example.com",
+  "hire_date": "2020-03-10"
+}]
