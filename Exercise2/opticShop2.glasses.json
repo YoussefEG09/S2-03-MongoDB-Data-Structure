@@ -1,0 +1,28 @@
+[{
+  "_id": "glasses01",
+  "brand": "Ray-Ban",
+  "graduation": {
+    "left": 1.25,
+    "right": 1.5
+  },
+  "frame_type": "metal",
+  "frame_color": "black",
+  "lens_color": {
+    "left": "transparent",
+    "right": "transparent"
+  },
+  "price": 120,
+  "supplier_id": "supplier01",
+  "sales": [
+    {
+      "client_id": "client01",
+      "employee_id": "employee01",
+      "date": "2025-11-02T10:30:00Z"
+    },
+    {
+      "client_id": "client02",
+      "employee_id": "employee02",
+      "date": "2025-11-05T12:15:00Z"
+    }
+  ]
+}]
