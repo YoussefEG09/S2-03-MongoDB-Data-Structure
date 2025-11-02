@@ -1,0 +1,25 @@
+[{
+  "_id": "order01",
+  "client_id": "client01",
+  "store_id": "store01",
+  "order_date": "2025-11-02T12:30:00Z",
+  "delivery": true,
+  "products": [
+    {
+      "product_id": "product01",
+      "quantity": 2,
+      "unit_price": 8.5
+    },
+    {
+      "product_id": "product03",
+      "quantity": 1,
+      "unit_price": 3
+    }
+  ],
+  "total_price": 20,
+  "note": "Without onion",
+  "delivery_info": {
+    "employee_id": "employee01",
+    "delivery_date": "2025-11-02T13:15:00Z"
+  }
+}]

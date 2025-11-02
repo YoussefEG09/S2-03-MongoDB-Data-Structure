@@ -1,0 +1,9 @@
+[{
+  "_id": "employee01",
+  "first_name": "Juan",
+  "last_name": "García",
+  "NIF": "12345678A",
+  "phone": "612345679",
+  "role": "cook",
+  "store_id": "store01"
+}]

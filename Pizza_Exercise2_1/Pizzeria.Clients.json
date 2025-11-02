@@ -1,0 +1,13 @@
+[{
+  "_id": "client01",
+  "first_name": "Laura",
+  "last_name": "Pérez",
+  "address": {
+    "street": "Carrer de la Lluna",
+    "number": 12,
+    "postal_code": "08005",
+    "city": "Barcelona",
+    "province": "Barcelona"
+  },
+  "phone": "612345678"
+}]

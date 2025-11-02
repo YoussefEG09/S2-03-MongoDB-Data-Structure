@@ -1,0 +1,10 @@
+[{
+  "_id": "store01",
+  "address": {
+    "street": "Carrer Major",
+    "number": 45,
+    "postal_code": "08010",
+    "city": "Barcelona",
+    "province": "Barcelona"
+  }
+}]

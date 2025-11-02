@@ -1,0 +1,8 @@
+[{
+  "_id": "product01",
+  "name": "Pizza Margarita",
+  "description": "Tomato, mozzarella, basil",
+  "image": "margarita.jpg",
+  "price": 8.5,
+  "category": "Classic"
+}]
